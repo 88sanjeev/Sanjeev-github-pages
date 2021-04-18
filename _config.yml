@@ -1,5 +1,5 @@
-title: Curriculum Vitae
-author: Sanjeev Sharma, PhD
+title: Sanjeev Sharma, PhD
+author: 
 email: sms4003@med.cornell.edu
 description: This blog provides an overwiew of my research career
 # this means to ignore newlines until "baseurl:"
@@ -8,7 +8,7 @@ description: This blog provides an overwiew of my research career
 # social links
 twitter_username: sanjeev_msharma # DO NOT include the @ character, or else the build will fail!
 github_username:  88sanjeev # DO NOT include the @ character, or else the build will fail!
-linkedIn_username: sanjeevmsharma
+LinkedIn_username: sanjeevmsharma
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
