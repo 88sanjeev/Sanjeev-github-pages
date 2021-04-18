@@ -1,5 +1,7 @@
 ---
-title: "Menu"
+title: "Curriculum Vitae"
+  title: "Research"
+  title: "Publications"
 ---
 
-I'm glad you are here. I plan to talk about Cell Differentiation
+
